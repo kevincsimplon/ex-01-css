@@ -1,0 +1,34 @@
+.hun{
+text-align: center;
+color:blue;
+background-color: gray;
+border-radius: 5px;
+width: 500px;
+margin: auto;}
+
+
+
+.pun{
+  font-family: impact;
+font-size: 25px;}
+
+  .pdeux{ font-family: impact;
+  font-size: 25px;}
+
+
+  .linka{color:blue;
+  font-weight: bold;
+  text-decoration: none;}
+
+
+a[href*=https] {
+  color: blue;
+  font-weight: bold;
+}
+.linka:hover{
+  text-decoration: none;
+}
+.linkb{
+  color:blue;
+  text-decoration: none;
+}
